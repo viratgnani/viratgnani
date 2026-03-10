@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Gnaneshwar 👋
 
-<!--
-**viratgnani/viratgnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student passionate about **AI, Machine Learning, and Blockchain systems**.
 
-Here are some ideas to get you started:
+I build real-world systems including:
+- AI-powered applications
+- Machine learning prediction systems
+- blockchain analysis tools
+- automation bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+🔹 TherapyPulse AI  
+AI-powered mental wellness assistant using machine learning.
+
+🔹 Startup Success Predictor  
+Machine learning model predicting startup success using business data.
+
+🔹 BillSnapTax  
+AI-powered receipt intelligence system that extracts and analyzes financial data.
+
+🔹 Solana Smart Scanner  
+Blockchain analysis tool monitoring smart contract activity on Solana.
+
+## 🛠 Tech Stack
+
+Languages  
+Python | Java | JavaScript  
+
+Technologies  
+Machine Learning | Blockchain | APIs | Automation  
+
+Tools  
+Scikit-learn | Firebase | Node.js | React | Git  
+
+## 📫 Contact
+
+Email: gnanugnanu37@gmail.com
+
